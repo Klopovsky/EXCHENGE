@@ -512,7 +512,7 @@
       "SmartSelect": ["LeftShift"],
       "SmartCursor": ["LeftControl"],
       "QuickMount": ["R"],
-      "QuickHeal": ["Mouse5"],
+      "QuickHeal": ["H"],
       "QuickMana": ["J"],
       "QuickBuff": ["B"],
       "MapZoomIn": ["Add"],
