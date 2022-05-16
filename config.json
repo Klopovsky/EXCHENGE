@@ -1,6 +1,6 @@
 {
   "ResetDefaultUIScale": false,
-  "SmartCursorToggle": true,
+  "SmartCursorToggle": false,
   "MapEnabled": true,
   "InvasionBarMode": 2,
   "AutoSave": true,
