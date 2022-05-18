@@ -41,7 +41,7 @@
   "LockOnPriority": 2,
   "InvisibleCursorForGamepad": true,
   "GamepadDisableInstructionsDisplay": false,
-  "SettingsUnlock_WorldEvil": false,
+  "SettingsUnlock_WorldEvil": true,
   "SettingsEnabled_MinersWobble": true,
   "SettingBlockGamepadsEntirely": false,
   "SettingsEnabled_OpaqueBoxBehindTooltips": true,
